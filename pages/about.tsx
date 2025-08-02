@@ -8,38 +8,38 @@ export default function About() {
           {/* Icon */}
           <Image
             src="/icon.png"
-            alt="Shilpa's portrait"
+            alt="Shilpa&apos;s portrait"
             width={100}
             height={100}
           />
 
           {/* Intro Text */}
           <div className="text-base">
-            <p className="font-bold mb-4 text-lg">Hi! I’m Shilpa Bojjireddy</p>
+            <p className="font-bold mb-4 text-lg">Hi! I am Shilpa Bojjireddy</p>
 
             <p className="mb-4 text-base first-letter:text-5xl first-letter:font-bold first-letter:float-left first-letter:leading-none first-letter:mr-2">
-              <span className="font-semibold text-[#E00D50]">I’m an Associate Software Engineer at Tubi</span>{' '}
+              <span className="font-semibold text-[#E00D50]">I am currently an Associate Software Engineer at Tubi</span>{' '}
               and a recent UCLA graduate (Class of 2025!) with a degree in Mathematics of Computation.
-              I didn’t start coding until my second year of college, and I definitely struggled at first.
+              I did not start coding until my second year of college, and I definitely struggled at first.
               But over time, something clicked, and I came to enjoy the creativity and problem-solving behind it.
             </p>
 
             <p className="mb-4 text-base first-letter:text-5xl first-letter:font-bold first-letter:float-left first-letter:leading-none first-letter:mr-2">
-              <span className="font-semibold text-[#E00D50]"> Since then, I’ve explored various areas of tech. </span> I interned twice at a data protection company, where I learned a lot about cybersecurity.
+              <span className="font-semibold text-[#E00D50]"> Since then, I&apos;ve explored various areas of tech. </span> I interned twice at a data protection company, where I learned a lot about cybersecurity.
               To gain broader experience, I started freelancing and currently work with All Around Children to turn raw data into meaningful business insights.
-              I’m also pursuing an AI/ML certification through UT Austin to strengthen my technical foundation.
+              I am also pursuing an AI/ML certification through UT Austin to strengthen my technical foundation.
             </p>
 
             <p className="mb-4 text-base first-letter:text-5xl first-letter:font-bold first-letter:float-left first-letter:leading-none first-letter:mr-2">
-              <span className="font-semibold text-[#E00D50]">I'm still figuring out where I fit in the tech world,</span>{' '}
-              but I’m especially drawn to EdTech, ClimateTech, and Finance.
-              I'm passionate about using AI to make education more accessible—particularly for students who lack access to resources.
+              <span className="font-semibold text-[#E00D50]">I&apos;m still figuring out where I fit in the tech world,</span>{' '}
+              but I am especially drawn to EdTech, ClimateTech, and Finance.
+              I am passionate about using AI to make education more accessible—particularly for students who lack access to resources.
               I also care deeply about sustainability and am curious about how technology can help people manage their money more intentionally.
             </p>
 
             <p className="mb-4 text-base first-letter:text-5xl first-letter:font-bold first-letter:float-left first-letter:leading-none first-letter:mr-2">
               <span className="font-semibold text-[#E00D50]">In the next few years,</span>{' '}
-              I hope to pursue a master’s in machine learning and get involved in research.
+              I hope to pursue a masters in machine learning and get involved in research.
               At the core of everything I do is the belief that technology should make the world easier, fairer, and better for everyone.
             </p>
 
@@ -52,7 +52,6 @@ export default function About() {
               <span className="font-semibold text-[#E00D50]">If anything in my blurb resonates with you,</span>{' '}
               feel free to reach out or connect!
             </p>
-            
 
             {/* Contact Section */}
             <p className="mt-4">This is how you can contact me:</p>

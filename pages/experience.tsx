@@ -59,7 +59,7 @@ export default function Experience() {
           <li>
             <div className="flex flex-col">
               <span>
-                <Link href="https://www.allaroundchildren.com//" target="_blank" rel="noopener noreferrer" className="font-semibold hover:bold hover:text-[#4D999D] transition-colors duration-200">
+                <Link href="https://www.allaroundchildren.com" target="_blank" rel="noopener noreferrer" className="font-semibold hover:bold hover:text-[#4D999D] transition-colors duration-200">
                   All Around Children
                 </Link>{' '}
                 · Data Engineer

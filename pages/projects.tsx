@@ -12,7 +12,7 @@ export default function Projects() {
       title: 'CT Image Construction',
       description:
         'Implemented CT image reconstruction algorithms using optimization techniques. Explored variational methods with l1 and l2 regularization, and used iterative algorithms like Gradient Descent and Conjugate Gradient for stable, noise-resilient recovery.',
-      link: 'https://https://github.com/shilpa-bo/CT-Image-Reconstruction',
+      link: 'https://github.com/shilpa-bo/CT-Image-Reconstruction',
     },
     {
       title: 'Data-Driven Transit Design with Network Analysis',
