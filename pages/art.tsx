@@ -3,22 +3,22 @@ import Image from 'next/image';
 export default function Art() {
 const artPieces = [
   {
-    src: '/art1.png',
+    src: '/portfolio/art1.png',
     alt: 'Chicken playing tennis',
     description: 'Chicken Playing Tennis',
   },
   {
-    src: '/art2.png',
+    src: '/portfolio/art2.png',
     alt: 'Geometric Drawing of Fishies (inspired by something I saw in SF)',
     description: 'Geometric Drawing of Fishies (inspired by something I saw in SF)',
   },
     {
-    src: '/art3.png',
+    src: '/portfolio/art3.png',
     alt: 'Chicken at the beach',
     description: 'Chicken at the beach',
   },
    {
-    src: '/art4.png',
+    src: '/portfolio/art4.png',
     alt: 'How I imagine East Coast Fall',
     description: 'How I imagine East Coast Fall',
   },

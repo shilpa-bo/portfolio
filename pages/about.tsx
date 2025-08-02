@@ -7,7 +7,7 @@ export default function About() {
         <div className="flex flex-col items-start text-left space-y-4 max-w-2xl pl-2">
           {/* Icon */}
           <Image
-            src="/icon.png"
+            src="/portfolio/icon.png"
             alt="Shilpa&apos;s portrait"
             width={100}
             height={100}
